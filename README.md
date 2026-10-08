@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently learning data analysis with excel, sql, powerbi and python<br><br>
+I'm Om a Computer Science enthusiast passionate about Excel, SQL, PowerBi and Python. I enjoy building projects that turn raw data into meaningful insights, whether it's through dashboards, reports or database systems.<br><br>
 
 
 ## 🌐 Socials:
